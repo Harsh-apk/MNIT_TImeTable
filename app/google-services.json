@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899636923465",
+    "project_id": "mnit-timetable",
+    "storage_bucket": "mnit-timetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899636923465:android:90640a684aef2a7cf24398",
+        "android_client_info": {
+          "package_name": "com.harsh_kumar.mnittimetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899636923465-egvt9s6f9e8gmbe784pr1l0us6bpina2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JR8IB6xgL6vVSUsY6DcLNxZTmEHQGEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899636923465-egvt9s6f9e8gmbe784pr1l0us6bpina2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
